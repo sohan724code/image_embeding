@@ -1,6 +1,6 @@
 fastapi
 uvicorn
-torch
-ultralytics
 pillow
 numpy
+ultralytics
+torch==2.0.0 --index-url https://download.pytorch.org/whl/cpu
